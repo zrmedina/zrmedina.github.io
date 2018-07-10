@@ -1,0 +1,47 @@
+h1 {
+  color:purple;
+  font-size:72px;
+  text-align: center;
+}
+html {
+    background-image: url("IG63uP0.jpg");
+}
+#options {
+    overflow: hidden;
+    opacity: 0.5;
+    float: left;
+    font-size: 36px;
+}
+#options a {
+    float: left;
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+#options a:hover {
+    background-color: #ddd;
+    color: black;
+}
+p {
+  color: white;
+  font-size: 30px;
+  text-align: center;
+}
+#leftcolumn {
+  width: 25%;
+  float: left;
+}
+#footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  opacity: 0.5;
+  text-align: center;
+}
+#bigcolumn {
+  width: 100%;
+}
